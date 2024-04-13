@@ -1,4 +1,5 @@
-﻿// for_cin.cpp
+
+// for_cin.cpp
 #include <iostream>
 #include <cstdlib>
 using namespace std;
@@ -21,3 +22,4 @@ int main()
   }
   return EXIT_SUCCESS;
 }
+
